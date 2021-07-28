@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="option">
+        <item>es</item><!-- español -->
+        <item>en</item><!-- inglés -->
+        <item>it</item><!-- italiano -->
+        <item>fr</item><!-- francés -->
+        <item>de</item><!-- german -->
+    </string-array>>
+</resources>
